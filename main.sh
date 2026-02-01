@@ -4,6 +4,7 @@
 # 
 # This script provides a dialog-based interface to monitor user sessions
 # and sudo commands on a Linux system.
+# .
 
 
 # Check if dialog is installed
